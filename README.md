@@ -10,3 +10,4 @@ Learning to Rank (LTR)는 검색 결과의 순서를 정하는 것과 같은 랭
 - [django,elasticsearch](https://blog.nerdfactory.ai/2019/04/29/django-elasticsearch-restframework.html)
 - [elasticsearch](https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/elasticsearch.ipynb#scrollTo=4CfKVmCvwcL7)
 - [참고](https://otzslayer.github.io/ml/2022/02/13/learning-to-rank.html)
+- [쿼리를 대신한 값](https://towardsdatascience.com/how-to-implement-learning-to-rank-model-using-python-569cd9c49b08)
